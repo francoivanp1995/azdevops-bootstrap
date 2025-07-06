@@ -1,0 +1,7 @@
+{
+  "projects": [
+    "project-devops-sap",
+    "project-devops-dns",
+    "project-devops-idm"
+  ]
+}

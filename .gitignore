@@ -1,3 +1,9 @@
+#env file
+00-bootstrap/00-script/.env.bootstrap
+
+#Azure backend config
+00-bootstrap/10-terraform/azure.conf
+
 # Local .terraform directories
 .terraform/
 
@@ -35,3 +41,4 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+/00-bootstrap/00-script/.azure.conf
